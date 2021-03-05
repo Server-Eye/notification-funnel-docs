@@ -1,0 +1,9 @@
+{
+	"all": [
+		{
+			"fact": "agent-id",
+			"operator": "equal",
+			"value": "710442cb-524e-4a7b-a604-7409ba72977a"
+		}
+	]
+}

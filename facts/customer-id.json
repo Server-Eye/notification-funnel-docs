@@ -1,0 +1,9 @@
+{
+	"all": [
+		{
+			"fact": "customer-id",
+			"operator": "equal",
+			"value": "4028e08a2e0ed329012e4ca526f705b1"
+		}
+	]
+}

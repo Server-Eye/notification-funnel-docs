@@ -1,0 +1,16 @@
+{
+	"all": [
+		{
+			"fact": "containers-are-all-error",
+			"params": {
+				"agentIds": [
+					"container-id-1",
+					"container-id-2",
+					"container-id-n"
+				]
+			},
+			"operator": "equal",
+			"value": true
+		}
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"all": [
+		{
+			"fact": "agent-type",
+			"operator": "equal",
+			"value": "9BB0B56D-F012-456f-8E20-F3E37E8166D9"
+		}
+	]
+}

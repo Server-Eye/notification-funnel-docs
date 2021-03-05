@@ -1,0 +1,9 @@
+{
+	"all": [
+		{
+			"fact": "agent-is-error",
+			"operator": "equal",
+			"value": true
+		}
+	]
+}

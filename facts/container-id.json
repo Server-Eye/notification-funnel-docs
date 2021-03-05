@@ -1,0 +1,9 @@
+{
+	"all": [
+		{
+			"fact": "container-id",
+			"operator": "equal",
+			"value": "6f8c3ae1-b566-4238-bb6c-af20b8aad692"
+		}
+	]
+}

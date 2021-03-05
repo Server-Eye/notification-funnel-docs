@@ -1,0 +1,9 @@
+{
+	"all": [
+		{
+			"fact": "container-is-error",
+			"operator": "equal",
+			"value": true
+		}
+	]
+}

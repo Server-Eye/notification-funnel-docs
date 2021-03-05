@@ -1,0 +1,9 @@
+{
+	"all": [
+		{
+			"fact": "agent-tags",
+			"operator": "contains",
+			"value": "storage"
+		}
+	]
+}

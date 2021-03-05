@@ -1,0 +1,14 @@
+{
+	"all": [
+		{
+			"fact": "time",
+			"operator": "greaterThanInclusive",
+			"value": 800
+		},
+		{
+			"fact": "time",
+			"operator": "lessThanInclusive",
+			"value": 1600
+		}
+	]
+}

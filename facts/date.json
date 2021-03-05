@@ -1,0 +1,14 @@
+{
+	"all": [
+		{
+			"fact": "date",
+			"operator": "greaterThanInclusive",
+			"value": "2021-03-01"
+		},
+		{
+			"fact": "date",
+			"operator": "lessThanInclusive",
+			"value": "2021-03-30"
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"all": [
+		{
+            "fact": "customer-propery",
+            "params": {
+                "key": "SLA"
+            },
+			"operator": "equal",
+			"value": "yes"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"all": [
+		{
+			"fact": "day-of-week",
+			"operator": "greaterThanInclusive",
+			"value": 1
+		},
+		{
+			"fact": "day-of-week",
+			"operator": "lessThanInclusive",
+			"value": 5
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"all": [
+		{
+			"fact": "agents-is-any-error",
+			"params": {
+				"agentIds": [
+					"agent-id-1",
+					"agent-id-2",
+					"agent-id-n"
+				]
+			},
+			"operator": "equal",
+			"value": true
+		}
+	]
+}
