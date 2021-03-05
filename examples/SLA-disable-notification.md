@@ -5,7 +5,7 @@ Disable notifications based on utc time, day of week and if the customer has a s
 This sample expects that you have configured notifications with enabled email, sms, etc.
 
 ## Rule
-```json
+```js
 {
 	"all": [
 		{ // only customers without property SLA: yes
@@ -41,7 +41,7 @@ This sample expects that you have configured notifications with enabled email, s
 ```
 
 ## Fix
-```json
+```js
 {
     "destination": {
         "transport": { // set all notification methods to false

@@ -5,7 +5,7 @@ Enable notifications based on utc time, day of week and if the customer has a sp
 This sample expects that you have configured notifications and enables mobile messages.
 
 ## Rule
-```json
+```js
 {
 	"all": [
 		{ // only customers without property SLA: yes
@@ -45,7 +45,7 @@ This sample expects that you have configured notifications and enables mobile me
 ```
 
 ## Fix
-```json
+```js
 {
     "destination": {
         "transport": { // enable sms 

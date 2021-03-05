@@ -5,7 +5,7 @@ This example sends email and ticket notifications, if all of the listet agents a
 Only the message and rsm of the last processed agent are dispatched to the transports. 
 
 ## Rule
-```json
+```js
 {
 	"all": [
 		{
@@ -25,7 +25,7 @@ Only the message and rsm of the last processed agent are dispatched to the trans
 ```
 
 ## Fix
-```json
+```js
 {
     "destination": {
         "transport": { // set all notification methods to false
