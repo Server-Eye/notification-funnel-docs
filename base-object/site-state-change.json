@@ -1,0 +1,55 @@
+{
+    "messageId": "uuid-v4",
+    "messageType": "STATE_CHANGE",
+    "destination": {
+        "transport": {
+            "email": false,
+            "sms": false,
+            "ticket": false,
+            "mobilepush": false
+        },
+        "defer": {
+            "name": "Kurz",
+            "minutes": 10,
+            "deferId": "00402bc0-a890-11e4-8de9-cb82a6d17852"
+        }
+    },
+    "context": {
+        "user": {
+            "surname": "Schneider",
+            "prename": "Kim",
+            "email": "kim.schneider@server-eye.de",
+            "phone": "123456789",
+            "isGroup": false,
+            "userId": "4ab9f8f0-9ee8-11e3-958e-553482e2ac5c"
+        },
+        "customer": {
+            "name": "Systemmanager IT",
+            "number": 75953213,
+            "customerId": "4028e08a2e0ed329012e4ca526f705b1",
+            "properties": {
+                "KDNR": "22444",
+                "SLA": "yes"
+            },
+            "settings": {
+                "tanssUrl": "https://tanss.server-eye.de",
+                "defaultLanguage": "de",
+                "timezone": "Europe/Berlin",
+                "smsAccountEmail": "smsAccountEmail",
+                "smsAccountPassword": "smsAccountPassword"
+            }
+        },
+        "site": {
+            "name": "server-eye.de",
+            "siteId": "6f8c3ae1-b566-4238-bb6c-af20b8aad692"
+        }
+    },
+    "payload": {
+        "currentState": {
+            "error": true,
+            "stateId": 387775653,
+            "dateStart": 1573130716045,
+            "dateLast": 1573130716045
+        }
+    }
+}
