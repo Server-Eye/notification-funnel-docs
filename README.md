@@ -1,5 +1,5 @@
 # Notification Funnels
-All notifications are fulled through definied ```rules```. If a ```rule``` matches, the defined ```appliedObject``` overwrites the message definition.
+All notifications are funnelled through definied ```rules```. If a ```rule``` matches, the defined ```appliedObject``` overwrites the base message object.
 
 ## Rules
 
@@ -66,4 +66,4 @@ The ```operator``` compares the value returned by the ```fact``` to what is stor
 
   ---
 
-  The ```notification funnel``` feature and parts of this documentation are based on the [json-rules-engine](https://github.com/cachecontrol/json-rules-engine)
+  The `notification funnel` feature and parts of this documentation are based on the [json-rules-engine](https://github.com/cachecontrol/json-rules-engine)
