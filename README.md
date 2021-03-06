@@ -64,4 +64,6 @@ The ```operator``` compares the value returned by the ```fact``` to what is stor
 
   ```doesNotContain```  - _fact_ (an array) must not include _value_
 
-  
+  ---
+
+  The ```notification funnel``` feature and parts of this documentation are based on the [json-rules-engine](https://github.com/cachecontrol/json-rules-engine)
