@@ -9,10 +9,10 @@ This sample expects that you have configured notifications with enabled email, s
 {
 	"all": [
 		{ // only customers without property SLA: yes
-            "fact": "customer-propery",
-            "params": {
-                "key": "SLA"
-            },
+			"fact": "customer-property",
+				"params": {
+				"key": "SLA"
+			},
 			"operator": "notEqual",
 			"value": "yes"
 		}{
